@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3681702165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee9f17920617be1d983714886f01823d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Res/testscene2.unity
+Dependencies:
+- E:/OUT/all

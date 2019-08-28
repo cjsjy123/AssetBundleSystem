@@ -1,0 +1,41 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+/AssetBundleSystem/.vs
+/AssetBundleSystem/Library
+/AssetBundleSystem/ProjectSettings
+/AssetBundleSystem/Temp
+
+/AssetBundleSystem/Assets/Plugins
+
+/Build/AssetBundleSystemDll/AssetBundleEditorDll/bin
+/Build/AssetBundleSystemDll/AssetBundleSystemDll/bin
+/Build/AssetBundleSystemDll/AssetBundleSystemRuntimeDll/bin
+/AssetBundleSystem/obj
+/Build/AssetBundleSystemDll/AssetBundleEditorDll/obj
+/Build/AssetBundleSystemDll/AssetBundleSystemDll/obj
+/Build/AssetBundleSystemDll/AssetBundleSystemRuntimeDll/obj
+/Build/AssetBundleSystemDll/.vs

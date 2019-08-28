@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2629534380
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: empty
+      Dependencies:
+        Dependency_0: ui
+    Info_1:
+      Name: myscene
+      Dependencies:
+        Dependency_0: all
+    Info_2:
+      Name: shareui
+      Dependencies:
+        Dependency_0: ui
+    Info_3:
+      Name: ui
+      Dependencies:
+        Dependency_0: shareui
+    Info_4:
+      Name: all
+      Dependencies: {}
